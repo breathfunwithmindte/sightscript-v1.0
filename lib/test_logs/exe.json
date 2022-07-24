@@ -1,0 +1,69 @@
+[
+   {
+      "type": "FUNCTION DECLARATION",
+      "name": "somename",
+      "prop": [],
+      "funcprops": [
+         "a",
+         "v",
+         "asd"
+      ],
+      "element_index": 0,
+      "variable_func_exe": null,
+      "arr_value": [],
+      "obj_value": [],
+      "codeblock": [
+         {
+            "type": "FUNCTION EXE",
+            "name": "print",
+            "prop": [
+               {
+                  "type": "ANONYMOUS VARIABLE ARRAY ELEMENT",
+                  "name": ".",
+                  "prop": [],
+                  "funcprops": [],
+                  "value": "Arr",
+                  "element_index": 12,
+                  "variable_func_exe": null,
+                  "arr_value": [],
+                  "obj_value": [],
+                  "codeblock": [],
+                  "expressions": [],
+                  "forexpression": [],
+                  "ifexpression": [],
+                  "error": ""
+               }
+            ],
+            "funcprops": [],
+            "element_index": 0,
+            "variable_func_exe": null,
+            "arr_value": [],
+            "obj_value": [],
+            "codeblock": [],
+            "expressions": [],
+            "forexpression": [],
+            "ifexpression": [],
+            "error": ""
+         },
+         {
+            "type": "FUNCTION DECLARATION",
+            "name": "lala",
+            "prop": [],
+            "funcprops": [],
+            "element_index": 0,
+            "variable_func_exe": null,
+            "arr_value": [],
+            "obj_value": [],
+            "codeblock": [],
+            "expressions": [],
+            "forexpression": [],
+            "ifexpression": [],
+            "error": ""
+         }
+      ],
+      "expressions": [],
+      "forexpression": [],
+      "ifexpression": [],
+      "error": ""
+   }
+]
