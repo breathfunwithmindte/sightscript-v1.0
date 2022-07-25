@@ -14,6 +14,9 @@ const sightscript = new SightScript(`
   })
 `);
 
+const r = eval("5 + 5 / 10 == 9.5 - (1 + 3)")
+console.log(r)
+
 ;(async () => {
   try {
     
