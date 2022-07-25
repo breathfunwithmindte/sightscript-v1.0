@@ -2,7 +2,8 @@ const { SightScript } = require("./lib");
 global["log"] = console.log
 
 const sightscript = new SightScript(`
-  user = 5;
+  userpre = 5;
+  user = [{username: "mike", age: 15, profile: [1, 2] }, [1,2, "asdasd", true, null, userpre]]
   function som dasename (a, b, c) {
     print("hello world")
   }
