@@ -1,86 +1,115 @@
 [
    {
-      "type": "VARIABLE VALUE",
-      "name": "userpre",
+      "type": "FUNCTION DECLARATION",
+      "name": "somefunc",
       "prop": [],
-      "funcprops": [],
-      "value": 5,
+      "funcprops": [
+         "a",
+         "b"
+      ],
       "element_index": 0,
       "variable_func_exe": null,
       "arr_value": [],
       "obj_value": [],
-      "codeblock": [],
+      "codeblock": [
+         {
+            "type": "FUNCTION EXE",
+            "name": "b",
+            "prop": [
+               {
+                  "type": "ANONYMOUS VALUE",
+                  "name": ".",
+                  "prop": [],
+                  "funcprops": [],
+                  "value": 1,
+                  "element_index": 0,
+                  "variable_func_exe": null,
+                  "arr_value": [],
+                  "obj_value": [],
+                  "codeblock": [],
+                  "expressions": [],
+                  "forexpression": [],
+                  "ifexpression": [],
+                  "error": ""
+               },
+               {
+                  "type": "ANONYMOUS VALUE",
+                  "name": ".",
+                  "prop": [],
+                  "funcprops": [],
+                  "value": 2,
+                  "element_index": 0,
+                  "variable_func_exe": null,
+                  "arr_value": [],
+                  "obj_value": [],
+                  "codeblock": [],
+                  "expressions": [],
+                  "forexpression": [],
+                  "ifexpression": [],
+                  "error": ""
+               }
+            ],
+            "funcprops": [],
+            "element_index": 0,
+            "variable_func_exe": null,
+            "arr_value": [],
+            "obj_value": [],
+            "codeblock": [],
+            "expressions": [],
+            "forexpression": [],
+            "ifexpression": [],
+            "error": ""
+         }
+      ],
       "expressions": [],
       "forexpression": [],
       "ifexpression": [],
       "error": ""
    },
    {
-      "type": "VARIABLE ARRAY",
-      "name": "user",
-      "prop": [],
-      "funcprops": [],
-      "value": "{username: __STRING__Eu5TQdQKngUEq30swTAG2ma, age: 15, profile: [1, 2] }, [1,2, __STRING__hVBC2Yo1rWLnpoIB3UXoVGv, true, null, userpre]",
-      "element_index": 0,
-      "variable_func_exe": null,
-      "arr_value": [
+      "type": "FUNCTION EXE",
+      "name": "somefunc",
+      "prop": [
          {
-            "type": "ANONYMOUS OBJECT",
+            "type": "ANONYMOUS VALUE",
             "name": ".",
             "prop": [],
             "funcprops": [],
-            "value": "username: __STRING__Eu5TQdQKngUEq30swTAG2ma, age: 15, profile: __ARR__aZNGtUJpksl3iJzroe9Lc4L",
+            "value": 5,
             "element_index": 0,
             "variable_func_exe": null,
             "arr_value": [],
-            "obj_value": [
+            "obj_value": [],
+            "codeblock": [],
+            "expressions": [],
+            "forexpression": [],
+            "ifexpression": [],
+            "error": ""
+         },
+         {
+            "type": "ANONYMOUS CALLBACK",
+            "name": ".",
+            "prop": [],
+            "funcprops": [
+               "aa",
+               "bb"
+            ],
+            "value": "__PAR__l7FFFSdMl1zMBz5ZulH4dUO => __CODE__6AZvtPabBdPczDTHHCFXI4e",
+            "element_index": 0,
+            "variable_func_exe": null,
+            "arr_value": [],
+            "obj_value": [],
+            "codeblock": [
                {
-                  "type": "VARIABLE VALUE",
-                  "name": "username",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": "mike",
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               },
-               {
-                  "type": "VARIABLE VALUE",
-                  "name": "age",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": 15,
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               },
-               {
-                  "type": "VARIABLE ARRAY",
-                  "name": "profile",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": "1, 2",
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [
+                  "type": "FUNCTION EXE",
+                  "name": "print",
+                  "prop": [
                      {
-                        "type": "ANONYMOUS VALUE",
+                        "type": "ANONYMOUS VARIABLE",
                         "name": ".",
                         "prop": [],
                         "funcprops": [],
-                        "value": 1,
+                        "value": "aa",
                         "element_index": 0,
                         "variable_func_exe": null,
                         "arr_value": [],
@@ -92,11 +121,11 @@
                         "error": ""
                      },
                      {
-                        "type": "ANONYMOUS VALUE",
+                        "type": "ANONYMOUS VARIABLE",
                         "name": ".",
                         "prop": [],
                         "funcprops": [],
-                        "value": 2,
+                        "value": "bb",
                         "element_index": 0,
                         "variable_func_exe": null,
                         "arr_value": [],
@@ -108,6 +137,10 @@
                         "error": ""
                      }
                   ],
+                  "funcprops": [],
+                  "element_index": 0,
+                  "variable_func_exe": null,
+                  "arr_value": [],
                   "obj_value": [],
                   "codeblock": [],
                   "expressions": [],
@@ -116,18 +149,33 @@
                   "error": ""
                }
             ],
-            "codeblock": [],
             "expressions": [],
             "forexpression": [],
             "ifexpression": [],
             "error": ""
-         },
+         }
+      ],
+      "funcprops": [],
+      "element_index": 0,
+      "variable_func_exe": null,
+      "arr_value": [],
+      "obj_value": [],
+      "codeblock": [],
+      "expressions": [],
+      "forexpression": [],
+      "ifexpression": [],
+      "error": ""
+   },
+   {
+      "type": "FUNCTION EXE",
+      "name": "find",
+      "prop": [
          {
             "type": "ANONYMOUS ARRAY",
             "name": ".",
             "prop": [],
             "funcprops": [],
-            "value": "1,2, __STRING__hVBC2Yo1rWLnpoIB3UXoVGv, true, null, userpre",
+            "value": "1, 2",
             "element_index": 0,
             "variable_func_exe": null,
             "arr_value": [
@@ -162,70 +210,6 @@
                   "forexpression": [],
                   "ifexpression": [],
                   "error": ""
-               },
-               {
-                  "type": "ANONYMOUS VALUE",
-                  "name": ".",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": "asdasd",
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               },
-               {
-                  "type": "ANONYMOUS VALUE",
-                  "name": ".",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": true,
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               },
-               {
-                  "type": "ANONYMOUS VALUE",
-                  "name": ".",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": null,
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               },
-               {
-                  "type": "ANONYMOUS VARIABLE",
-                  "name": ".",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": "userpre",
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
                }
             ],
             "obj_value": [],
@@ -234,51 +218,16 @@
             "forexpression": [],
             "ifexpression": [],
             "error": ""
-         }
-      ],
-      "obj_value": [],
-      "codeblock": [],
-      "expressions": [],
-      "forexpression": [],
-      "ifexpression": [],
-      "error": ""
-   },
-   {
-      "type": "FUNCTION DECLARATION",
-      "name": "som",
-      "prop": [],
-      "funcprops": [
-         "a",
-         "b",
-         "c"
-      ],
-      "element_index": 0,
-      "variable_func_exe": null,
-      "arr_value": [],
-      "obj_value": [],
-      "codeblock": [
+         },
          {
-            "type": "FUNCTION EXE",
-            "name": "print",
-            "prop": [
-               {
-                  "type": "ANONYMOUS VALUE",
-                  "name": ".",
-                  "prop": [],
-                  "funcprops": [],
-                  "value": "hello world",
-                  "element_index": 0,
-                  "variable_func_exe": null,
-                  "arr_value": [],
-                  "obj_value": [],
-                  "codeblock": [],
-                  "expressions": [],
-                  "forexpression": [],
-                  "ifexpression": [],
-                  "error": ""
-               }
+            "type": "ANONYMOUS CALLBACK",
+            "name": ".",
+            "prop": [],
+            "funcprops": [
+               "a",
+               "b"
             ],
-            "funcprops": [],
+            "value": "__PAR__VT2x0AMLLY7weJW4qR2PQDN => __CODE__nOjmaQouURDWmEq2Wa2cd0g",
             "element_index": 0,
             "variable_func_exe": null,
             "arr_value": [],
@@ -290,6 +239,12 @@
             "error": ""
          }
       ],
+      "funcprops": [],
+      "element_index": 0,
+      "variable_func_exe": null,
+      "arr_value": [],
+      "obj_value": [],
+      "codeblock": [],
       "expressions": [],
       "forexpression": [],
       "ifexpression": [],

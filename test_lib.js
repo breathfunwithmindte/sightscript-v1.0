@@ -2,11 +2,16 @@ const { SightScript } = require("./lib");
 global["log"] = console.log
 
 const sightscript = new SightScript(`
-  userpre = 5;
-  user = [{username: "mike", age: 15, profile: [1, 2] }, [1,2, "asdasd", true, null, userpre]]
-  function som dasename (a, b, c) {
-    print("hello world")
+  /** user = 5;
+  // print("hello world", [12, 14, { asdasd: 1312312}], user); */
+  function somefunc (a, b) {
+    b(1, 2)
   }
+  somefunc(5, (aa, bb) => { print(aa, bb) })
+
+  find([1, 2], (a, b) => {
+
+  })
 `);
 
 ;(async () => {
