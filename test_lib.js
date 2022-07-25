@@ -2,12 +2,10 @@ const { SightScript } = require("./lib");
 global["log"] = console.log
 
 const sightscript = new SightScript(`
-  function somename (a, v, asd) {
-    print(Arr[12]); function lala () {
-
-    }
+  user = 5;
+  function som dasename (a, b, c) {
+    print("hello world")
   }
-
 `);
 
 ;(async () => {

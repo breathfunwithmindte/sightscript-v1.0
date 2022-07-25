@@ -1,12 +1,28 @@
 [
    {
+      "type": "VARIABLE VALUE",
+      "name": "user",
+      "prop": [],
+      "funcprops": [],
+      "value": 5,
+      "element_index": 0,
+      "variable_func_exe": null,
+      "arr_value": [],
+      "obj_value": [],
+      "codeblock": [],
+      "expressions": [],
+      "forexpression": [],
+      "ifexpression": [],
+      "error": ""
+   },
+   {
       "type": "FUNCTION DECLARATION",
-      "name": "somename",
+      "name": "som",
       "prop": [],
       "funcprops": [
          "a",
-         "v",
-         "asd"
+         "b",
+         "c"
       ],
       "element_index": 0,
       "variable_func_exe": null,
@@ -18,12 +34,12 @@
             "name": "print",
             "prop": [
                {
-                  "type": "ANONYMOUS VARIABLE ARRAY ELEMENT",
+                  "type": "ANONYMOUS VALUE",
                   "name": ".",
                   "prop": [],
                   "funcprops": [],
-                  "value": "Arr",
-                  "element_index": 12,
+                  "value": "hello world",
+                  "element_index": 0,
                   "variable_func_exe": null,
                   "arr_value": [],
                   "obj_value": [],
@@ -34,21 +50,6 @@
                   "error": ""
                }
             ],
-            "funcprops": [],
-            "element_index": 0,
-            "variable_func_exe": null,
-            "arr_value": [],
-            "obj_value": [],
-            "codeblock": [],
-            "expressions": [],
-            "forexpression": [],
-            "ifexpression": [],
-            "error": ""
-         },
-         {
-            "type": "FUNCTION DECLARATION",
-            "name": "lala",
-            "prop": [],
             "funcprops": [],
             "element_index": 0,
             "variable_func_exe": null,
