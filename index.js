@@ -1,3 +1,8 @@
-const { SightScript, Func } = require("./src/core");
+/**
+ * @module SightScript
+ * @author Mike Karypidis
+ * @license Apache-2.0
+ * @copyright 2022
+ */
 
-module.exports = { SightScript, Func };
+module.exports = require("./lib");

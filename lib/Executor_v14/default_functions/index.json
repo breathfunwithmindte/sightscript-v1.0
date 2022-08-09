@@ -1,0 +1,25 @@
+[
+  {
+    "funcname": "print", "funcsource": "./default_functions/system_functions/print.js"
+  },
+  {
+    "funcname": "println", "funcsource": "./default_functions/system_functions/println.js"
+  },
+  {
+    "funcname": "global", "funcsource": "./default_functions/system_functions/_global.js"
+  },
+  
+  { "funcname": "map", "funcsource": "./default_functions/array_functions/array_map.js" },
+  { "funcname": "push", "funcsource": "./default_functions/array_functions/array_push.js" },
+  { "funcname": "find", "funcsource": "./default_functions/array_functions/array_find.js" },
+  { "funcname": "filter", "funcsource": "./default_functions/array_functions/array_filter.js" },
+
+  { "funcname": "substring", "funcsource": "./default_functions/string_functions/string_substring.js" },
+  { "funcname": "lowercase", "funcsource": "./default_functions/string_functions/string_lowercase.js" },
+  { "funcname": "uppercase", "funcsource": "./default_functions/string_functions/string_uppercase.js" },
+  { "funcname": "startswith", "funcsource": "./default_functions/string_functions/string_startswith.js" },
+  { "funcname": "endswith", "funcsource": "./default_functions/string_functions/string_endswith.js" },
+  { "funcname": "trim", "funcsource": "./default_functions/string_functions/string_trim.js" },
+  { "funcname": "split", "funcsource": "./default_functions/string_functions/string_split.js" },
+  { "funcname": "match", "funcsource": "./default_functions/string_functions/string_match.js" }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "type": "FUNCTION EXE",
+    "name": "print",
+    "prop": [
+      {
+        "type": "ANONYMOUS FUNCTION EXE",
+        "name": ".",
+        "prop": [],
+        "funcprops": [],
+        "value": "$db.read__PAR__EXOO5hl4s5Q3BA6nMu9JBpC",
+        "element_index": 0,
+        "variable_func_exe": {
+          "type": "FUNCTION EXE",
+          "name": "$db.read",
+          "prop": [
+            {
+              "type": "ANONYMOUS VALUE",
+              "name": ".",
+              "prop": [],
+              "funcprops": [],
+              "value": "users",
+              "element_index": 0,
+              "variable_func_exe": null,
+              "arr_value": [],
+              "obj_value": [],
+              "codeblock": [],
+              "expressions": [],
+              "forexpression": [],
+              "ifexpression": [],
+              "error": ""
+            }
+          ],
+          "funcprops": [],
+          "element_index": 0,
+          "variable_func_exe": null,
+          "arr_value": [],
+          "obj_value": [],
+          "codeblock": [],
+          "expressions": [],
+          "forexpression": [],
+          "ifexpression": [],
+          "error": ""
+        },
+        "arr_value": [],
+        "obj_value": [],
+        "codeblock": [],
+        "expressions": [],
+        "forexpression": [],
+        "ifexpression": [],
+        "error": ""
+      }
+    ],
+    "funcprops": [],
+    "element_index": 0,
+    "variable_func_exe": null,
+    "arr_value": [],
+    "obj_value": [],
+    "codeblock": [],
+    "expressions": [],
+    "forexpression": [],
+    "ifexpression": [],
+    "error": ""
+  }
+]
