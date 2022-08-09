@@ -1,7 +1,7 @@
 {
   "name": "sightscript",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "sightscript, programming language",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,8 +9,11 @@
     "test": "jest --watchAll"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Karypidis",
   "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/breathfunwithmindte/sightscript-v1.0"
+  },
   "devDependencies": {
     "jest": "^28.1.0",
     "mongoose": "^6.4.7"

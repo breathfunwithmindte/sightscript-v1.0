@@ -5,4 +5,6 @@
  * @copyright 2022
  */
 
-module.exports = require("./lib");
+ const { SightScript, FunctionExe } = require("./lib");
+
+ module.exports = { SightScript, FunctionExe };

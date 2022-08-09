@@ -1,1 +1,56 @@
-print__PAR__6gSppyXOlhF3ZGyNFTSGRBL
+// this is a comment __PAR__HM3XoKJ0wdnnSfstAAmvnR5
+__COMMENT__JgO5ttMKpT2HcvUOhXNCdX2
+// strings
+my_string_varirable = __STRING__nTyGudgGPNLpqZee5bVnEQb
+// numbers
+my_number_variable = 14
+my_number_variable2 = 25
+//
+symbol is required only when you run multiple variables in same like
+// boolean true | false
+my_boolean_variable = true
+// null
+my_null = null
+// objects
+my_obj_variable = __CODE__6bJHVTFG6SYiwF575lrgXNj
+// this is the same with the previous, if variable not exist, it will automatically create one.
+my_obj_variable.user.username = __STRING__ZeGXLft0f2Fme9vdDNkzqLE
+my_obj_variable.user.description = __STRING__df0JsFpadbYkzvY3h84DvIW
+// arrays
+my_arr_variable = __ARR__ngzufCrwUU8JxKA4fOLcMy6
+// update object property
+my_obj_variable.user.username = __STRING__JNwrTvZXu8pX1EXgAMcCrzn
+// read array element
+print__PAR__84amqWu49LhfvHPUD0iN5o5
+// read array element #2
+print__PAR__qWooB5eL6t1LSdS3m6FTLfO
+__COMMENT__10gvziuQldLcFNMYV1D8SEQ
+some_string = __STRING__TPUFkeaMFE0bQhTN35ALXr8
+
+print__PAR__T4PxfQbs581xHAlYwlIxlZQ
+print__PAR__MVg6pCZatYBXIsI6bTeCoT2
+print__PAR__LldqzPKfDSiJllydZmz5tKj
+print__PAR__X25rs1m9y7KQbSbTuFUkCTZ
+print__PAR__KZIGCJpTEkJQNA9aiG96UuA
+print__PAR__IhmfpKL1g9T6lSp9BT7HiBQ
+print__PAR__dXyt8ojKgqvOuHLgo69mQc5
+print__PAR__7zUDAudhHzDZaUuPjUIlPSR
+__COMMENT__IO53NBxOAUljlgbTpMA5dhX
+__COMMENT__MT8BfuGXhW7XelXe8cvgxfO
+my_array = __ARR__OnNfvo1zwZhF8PMsePxeLS4
+push__PAR__pEAe8cGCot5rcgfaHD7XElW
+push__PAR__hZf6QJ1udkassZwYnKZrIUN
+push__PAR__PMXAGF5BK8w0vplbT4QeiL5
+print__PAR__OhtgAS7tYErW4cMMzwDtgXd
+newarr = map__PAR__EGgVXxBR0Rzck6mx7kPcmsz
+element_id_1 = find__PAR__YLRDxJEY5CLbJMgDn7RtXhw
+function my_filter_function __PAR__YPDhMh81hHW0WXoO7NF2lOy __CODE__5oX4JaPKEfgNFfoQcMM1yIL
+array_without_id_3 = filter__PAR__0AAJo16wXLgu40xkCUxUpoB
+print__PAR__tIfhrfZlWYEiwR2MuZFmNFb
+__COMMENT__BJIULtRRItiAXz51S9M8dfF
+function multiply __PAR__2mKpB0tYCXKVS8HVOkQZo1W __CODE__i6dYx6Z0GkcigUDq8oybZs8
+print__PAR__pb89fHQxRL671aqaHE0NwCZ
+print__PAR__xqvpoIiuSnkEcBdQwxecDn6
+function other_function __PAR__1wjNw1bvW6Akp5NG5my4Fhn __CODE__5GUeBIS7MhBEfFph5tKcJcO
+// simple if statement
+if__PAR__iAFLkpTAl8GbORTD5tjcE1H __CODE__qcbcyvFxwkWaahkr1todVjP
