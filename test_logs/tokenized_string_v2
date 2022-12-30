@@ -1,0 +1,57 @@
+// this is a comment __PAR__TmCiZayV70ecDQxtUHMueL8
+__COMMENT__vq3lcTBOfRRG2mhOSjEf5Kd
+// strings
+my_string_varirable = __STRING__F1NMtSpJ8FWYLYoHODREBWw
+// numbers
+my_number_variable = 14
+my_number_variable2 = 25
+//
+symbol is required only when you run multiple variables in same like
+// boolean true | false
+my_boolean_variable = true
+// null
+my_null = null
+// objects
+my_obj_variable = __CODE__8iW5GjCuSRUjKSoXJqKQRwQ
+// this is the same with the previous, if variable not exist, it will automatically create one.
+my_obj_variable.user.username = __STRING__gLTS8Xscfsr6YLTHfSN30zN
+my_obj_variable.user.description = __STRING__hHIlvD4cat0fr3DOG49bB1K
+// arrays
+my_arr_variable = __ARR__O9Ct7jF61NSXW7p2X6wwZuk
+// update object property
+my_obj_variable.user.username = __STRING__ohbXkm9gM8usNKx49ojBSn5
+// read array element
+print__PAR__HAwvgvDUdCp2Nusm7JKb6Ye
+// read array element #2
+print__PAR__QYLaUzDqepGQSY8AxUMKAYM
+__COMMENT__U8phktFR0wjQqgqc021WhlL
+some_string = __STRING__fvcfCMqygXLCqJ4JsY919AO
+
+print__PAR__5aHaCZmIg7dbT2fyRgK362E
+print__PAR__9Oy8uWvA5iiug5sta4ezYaz
+print__PAR__ilp0YmiBS0hwcI3zMHFc8si
+print__PAR__ZhoglHXIcVVt6zENHtjHHfX
+print__PAR__euMo5ZbH6RPFmRDkMg3woH3
+print__PAR__LGZHJOAx6m6cvhrAFYDexCN
+print__PAR__YM9GGql1iW9qbVMaUbkPFa2
+print__PAR__EglRyixuOJjf81osSZYai54
+__COMMENT__uWemkIFZsztCES4KSG1Ehm4
+__COMMENT__y2Zt5QJy1prwgHXyPzh0mWY
+my_array = __ARR__YXWy8fZX8BZef4caK2aOW7Z
+push__PAR__WLUJ2i4d9zovKhG7pjg6VfO
+push__PAR__swoj6rOUfocN0jW9NHCu0XA
+push__PAR__yEgerJ7tjqsUPp0s901uQLo
+print__PAR__daEUPDFHHnqbWYKDfUlOmy0
+newarr = map__PAR__1T0IiJ6FqXcoXhGRW9vhfGY
+element_id_1 = find__PAR__MU6XIXukiPTJzmCREbhhslN
+function my_filter_function __PAR__hhG14lv3sQi0LIS5HzhtI52 __CODE__WSpPXXhc8lEypyBva2WQinC
+array_without_id_3 = filter__PAR__GeUoVcnTAlk3Icsdip8uLZ5
+print__PAR__1Gbp5KwlwcNR9cZS5uCC8ly
+__COMMENT__19mbmrKbM0kwCQV8WqaffFC
+function multiply __PAR__Rpc5MihalEeS616Lo54xqCf __CODE__J25MG2UUtmBk2XpvCyGZ47x
+asdasd
+print__PAR__V4Tqy8FcZjBlyRfkLBN7vIU
+print__PAR__J4rCPX3rDULZTndPO6xURyB
+function other_function __PAR__l9s7kFCPKHI9xDzSd4GbiCs __CODE__D3bohFu6Yfu5958p3dgfUgi
+// simple if statement
+if__PAR__naFVFxIiFhkCshlzNniNKzF __CODE__YtkIKRKCKQd7EegI9bdyXUe
